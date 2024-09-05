@@ -1,3 +1,12 @@
+/*
+ * INFO 350 Temperature Conversion Assignment
+ * 
+ * Modify this template as needed as directed by the assignment,
+ * including the output message(s).
+ * 
+ */
+
+
 using System;
 
 namespace MyApp // Note: actual namespace depends on the project name.
@@ -7,9 +16,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
         static void Main(string[] args)
         {
             double inputTemperature = 35.8;
-            double aNewNumber = 3.2;
 
             Console.WriteLine("Input Temperature is " + inputTemperature);
+
         }
     }
 }
